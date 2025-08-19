@@ -16,3 +16,8 @@
 - Datos aula 4
     https://github.com/alura-es-cursos/2063-visualizacion-de-datos-con-bibliotecas-de-python/blob/aula-4/visualizacion_de_datos_con_python.ipynb
 
+- Datos aula 5
+    https://github.com/alura-es-cursos/2063-visualizacion-de-datos-con-bibliotecas-de-python/blob/aula-5/visualizacion_de_datos_con_python.ipynb
+
+- Proyecto final
+    https://github.com/ahcamachod/2063-visualizacion-de-datos-con-bibliotecas-de-python/blob/proyecto-final/visualizacion_de_datos_con_python.ipynb
